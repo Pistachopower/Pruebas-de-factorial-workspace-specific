@@ -4,6 +4,12 @@ public class Factorial {
 	
 	public static void main(String args[]) {
 		
+		/**
+		 * https://www.youtube.com/watch?v=ZYHrvgTOB4Q por métodos
+		 * https://www.youtube.com/watch?v=lRESFiclLxk en una misma clase se hace la funcion 
+		 * 
+		 */
+		
 		
 		Scanner sc= new Scanner(System.in);
 		
